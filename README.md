@@ -1,6 +1,6 @@
 # maccabi-demo
 
-maccabi demo janus
+maccabi demo janus lior
 
 ## Running the application in dev mode
 
